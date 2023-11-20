@@ -1,0 +1,27 @@
+{
+
+    "6015810061": {
+        "id": 6015810061,
+        "is_bot": false,
+        "first_name": "🚀",
+        "username": "inv_grp",
+        "language_code": "ru",
+        "isAdmin": false
+    },
+        "1242833007": {
+        "id": 1242833007,
+        "is_bot": false,
+        "first_name": "L",
+        "username": "Lucky_5000",
+        "language_code": "ru",
+        "isAdmin": true
+    },
+    "1715614622": {
+        "id": 1715614622,
+        "is_bot": false,
+        "first_name": "Gooio",
+        "username": "gooio_001",
+        "language_code": "ru",
+        "isAdmin": false
+    }
+}
